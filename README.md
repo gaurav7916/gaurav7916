@@ -1,7 +1,7 @@
 ### GitHub Stats
 
-<p align="centre">
-  <div align="centre">
+<p align="center">
+ <div align = "center">
   <a href="https://github.com/gaurav7916">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true" /></a>
 
