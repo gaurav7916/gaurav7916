@@ -3,7 +3,7 @@
 <p align="center">
  <div align = "center">
   <a href="https://github.com/gaurav7916">
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl"/></a>
+  <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl"/></a>
   
   <a href="https://github.com/gaurav7916">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true" /></a>
