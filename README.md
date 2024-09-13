@@ -1,18 +1,15 @@
 ### GitHub Stats:-
 
 <p align="centre">
- 
- <div align = "center">
   
   <a href="https://github.com/gaurav7916">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true" /></a>
 
   <a href="https://github.com/gaurav7916">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl" /></a>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl"/></a>
 
   <a href ="https://github.com/gaurav7916">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7916&theme=nightowl&layout=compact"/></a>
- </div>
 
 </p>
 
