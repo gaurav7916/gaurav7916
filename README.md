@@ -3,13 +3,13 @@
 <p align="center">
  <div align = "center">
   <a href="https://github.com/gaurav7916">
-  <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl"/></a>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl"/></a>
   
   <a href="https://github.com/gaurav7916">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true" /></a>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true" /></a>
 
   <a href ="https://github.com/gaurav7916">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7916&theme=nightowl&layout=compact"/></a>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7916&theme=nightowl&layout=compact"/></a>
 </div>
 </p>
 
