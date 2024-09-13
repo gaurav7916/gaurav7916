@@ -14,7 +14,7 @@
 
  <div align = "center">
   <a href ="https://github.com/gaurav7916">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7916&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7916&theme=nightowl&layout=compact"/></a>
   </div>
 
 </p>
