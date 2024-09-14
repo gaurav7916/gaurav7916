@@ -1,4 +1,4 @@
-### GitHub Stats
+ <h2 align="center">Stats</h2>
 
 <p align="center">
  <div align = "center">
@@ -6,7 +6,7 @@
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7916&theme=nightowl"/></a>
   
   <a href="https://github.com/gaurav7916">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true" /></a>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=gaurav7916&show_icons=true&theme=nightowl&count_private=true&rank_icon=github" /></a>
 
   <a href ="https://github.com/gaurav7916">
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7916&theme=nightowl&layout=compact"/></a>
