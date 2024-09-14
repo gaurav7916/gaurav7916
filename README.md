@@ -1,4 +1,4 @@
- <h2 align="center">Stats</h2>
+ <h2>Github Stats</h2>
 
 <p align="center">
  <div align = "center">
@@ -15,7 +15,7 @@
 
 ---
 
-### Find Me On
+ <h2>Find me On</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/gaurav-gupta-00647b167">
    <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60">
@@ -27,6 +27,6 @@
 
 ---
 
-### Relevant Links
+ <h2>Relevant Links</h2>
 
 * [My Portfolio](https://gaurav7916.github.io)
