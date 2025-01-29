@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://hitwebcounter.com/counter/counter.php?page=18732642&style=0006&nbdigits=3&type=ip&initCount=0" title="Profile Views" Alt="gaurav7916" border="0" />  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav7916&label=Profile%20views" alt="gaurav7916" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
