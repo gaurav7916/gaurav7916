@@ -18,9 +18,9 @@
     <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
     <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a></td>
     <td><a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a></td>
-    <td><a target="_blank" href="https://github.com/user-attachments/assets/bfbabfc0-38cf-4d4c-9ee7-e19b0a8e83b6" alt="https://www.python.org" width="40" height="40"/></a></td>
-    <td><a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="https://opencv.org" width="40" height="40"/></a></td>
-    <td><a target="_blank" href="https://miro.medium.com/max/4000/0*cSCGhssjeajRD3qs.png" alt="https://www.streamlit.io" width="40" height="40"/></a></td>
+    <td><a target="_blank"><img src="https://github.com/user-attachments/assets/bfbabfc0-38cf-4d4c-9ee7-e19b0a8e83b6" alt="https://www.python.org" width="40" height="40"/></a></td>
+    <td><a target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="https://opencv.org" width="40" height="40"/></a></td>
+    <td><a target="_blank"><img src="https://miro.medium.com/max/4000/0*cSCGhssjeajRD3qs.png" alt="https://www.streamlit.io" width="40" height="40"/></a></td>
 
     
   </tr>
