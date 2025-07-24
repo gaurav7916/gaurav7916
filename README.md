@@ -19,7 +19,7 @@
     <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a></td>
     <td><a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a></td>
     <td><a target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" alt="https://opencv.org" width="40" height="40"/></a></td>
-    <td><a target="_blank"><img src="https://miro.medium.com/max/4000/0*cSCGhssjeajRD3qs.png" alt="https://www.streamlit.io" width="60" height="60"/></a></td>
+    <td><a target="_blank"><img src="https://miro.medium.com/max/4000/0*cSCGhssjeajRD3qs.png" alt="https://www.streamlit.io" width="50" height="50"/></a></td>
 
     
   </tr>
